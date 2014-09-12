@@ -14,6 +14,7 @@
   font-weight: normal;
   font-style: normal;
 }
+
 [data-icon]:before {
   font-family: "notific8" !important;
   content: attr(data-icon);
