@@ -1,0 +1,18 @@
+{
+    "name": "components/jquery-notific8",
+    "description": "Notific8 is a notification plug-in inspired by the notifications introduced in Windows 8 with some web ready restyling and customizations",
+    "keywords": ["jquery", "win8"],
+    "license": "BSD",
+    "authors": [
+		{
+			"name": "Will Steinmetz",
+			"url": "http://willsteinmetz.net/",
+			"role": "authors"
+		},
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com",
+            "role": "maintainer of package for composer"
+        }
+    ]
+}
